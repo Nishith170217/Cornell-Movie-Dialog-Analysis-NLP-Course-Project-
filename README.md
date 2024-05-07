@@ -23,6 +23,6 @@ The Cornell Movie Dialogs dataset is a comprehensive compilation of movie charac
 
 ## License
 
-This project is made available under the MIT License - for more details, see the LICENSE.md file.
+This project is made available under the MIT License - for more details, see the [LICENSE.md](https://github.com/Nishith170217/Cornell-Movie-Dialog-Analysis-NLP-Course-Project-/blob/main/LICENSE) file.
 
 For a comprehensive understanding, please refer to the detailed project report and Jupyter notebooks provided in this repository.
