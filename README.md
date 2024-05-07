@@ -1,4 +1,8 @@
-# Cornell-Movie-Dialog-Analysis-NLP-Course-Project-
+# Cornell-Movie-Dialog-Analysis-NLP-Course-Project
+
+A Project By Webwizards
+![_03208d45-c465-4bfb-aaef-e05462ec81e4](https://github.com/Nishith170217/Numpy_00/assets/45823099/eab05b45-b7c8-4450-b169-1d58354e713d)
+
 ## Overview
 
 This repository hosts the analysis of the Cornell Movie Dialogs dataset for a Natural Language Processing course project at Politecnico di Milano (Polimi). This project aims to leverage various NLP techniques to explore and model movie script dialogues, enabling a deeper understanding of conversational dynamics in films. This README outlines the dataset details, analysis methods, and insights gained from modeling efforts.
