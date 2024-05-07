@@ -30,8 +30,8 @@ The Cornell Movie Dialogs dataset is a comprehensive compilation of movie charac
   * Prediction of Metadata: Predict metadata attributes like film title or character traits based on specific dialogues.
 
 ## Contributors
-* Rishikesh Miriyala
-* [Nishith Ranjan Biswas](https://github.com/Nishith170217)
+  * [Rishikesh Miriyala](https://github.com/Rishi24109)
+  * [Nishith Ranjan Biswas](https://github.com/Nishith170217)
 
 ## License
 
