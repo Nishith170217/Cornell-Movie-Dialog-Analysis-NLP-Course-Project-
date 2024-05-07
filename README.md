@@ -16,18 +16,18 @@ The Cornell Movie Dialogs dataset is a comprehensive compilation of movie charac
 * Documents Type: Includes dialogues exchanged between movie characters.
 * Size: Contains 220,579 conversational exchanges between 10,292 pairs of movie characters involves 9,035 characters from 617 movies.
 * movie metadata included:
- 1. genres
- 2. release year
- 3. IMDB rating
- 4. number of IMDB votes
- 5. IMDB rating
+  1. genres
+  2. release year
+  3. IMDB rating
+  4. number of IMDB votes
+  5. IMDB rating
 * character metadata included:
   1. gender (for 3,774 characters)
   2. position on movie credits (3,321 characters)
 
 * Primary Tasks:
- * Film Dialog Generation: Generate contextually appropriate responses based on previous dialogue exchanges.
- * Prediction of Metadata: Predict metadata attributes like film title or character traits based on specific dialogues.
+  * Film Dialog Generation: Generate contextually appropriate responses based on previous dialogue exchanges.
+  * Prediction of Metadata: Predict metadata attributes like film title or character traits based on specific dialogues.
 
 ## Contributors
 * Rishikesh Miriyala
