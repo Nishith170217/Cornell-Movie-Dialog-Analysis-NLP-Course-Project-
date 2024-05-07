@@ -1,7 +1,6 @@
 # Cornell-Movie-Dialog-Analysis-NLP-Course-Project
 
-A Project By Webwizards
-![PHOTO-2024-05-07-15-45-18](https://github.com/Nishith170217/Numpy_00/assets/45823099/6f613aff-df4f-4a87-8841-8acb62fa1862)
+        # A Project By Webwizards
 
 ## Overview
 
