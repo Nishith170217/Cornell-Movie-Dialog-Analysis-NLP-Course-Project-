@@ -42,23 +42,15 @@ For a comprehensive understanding, please refer to the detailed project report a
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
-The project is organized as follows:
-
-```
-
-Cornell-Movie-Dialog-Analysis-NLP-Course-Project/
-│
-├── data/                  # Raw and processed dataset files
-├── notebooks/            # Jupyter notebooks for EDA and modeling
-├── models/               # Saved trained models (if applicable)
-├── src/                  # Source code for preprocessing and utilities
-├── results/             # Generated outputs, plots, and evaluation results
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
-
-````
+- `data/` → Raw and processed dataset files  
+- `notebooks/` → Jupyter notebooks (EDA + experiments)  
+- `models/` → Trained model checkpoints  
+- `src/` → Python source code (preprocessing, training, inference)  
+- `results/` → Output visualizations and evaluation results  
+- `requirements.txt` → Project dependencies  
+- `README.md` → Project documentation  
 
 ---
 
