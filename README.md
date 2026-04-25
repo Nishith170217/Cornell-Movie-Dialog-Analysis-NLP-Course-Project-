@@ -1,5 +1,3 @@
-Here is your **fully copy-paste ready README.md** (your original content preserved + structured professional additions appended):
-
 ```markdown
 # Cornell-Movie-Dialog-Analysis-NLP-Course-Project
 
