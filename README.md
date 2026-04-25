@@ -1,3 +1,6 @@
+Here is your **fully copy-paste ready README.md** (your original content preserved + structured professional additions appended):
+
+```markdown
 # Cornell-Movie-Dialog-Analysis-NLP-Course-Project
 
 # A Project By Webwizards
@@ -38,3 +41,133 @@ The Cornell Movie Dialogs dataset is a comprehensive compilation of movie charac
 This project is made available under the MIT License - for more details, see the [LICENSE.md](https://github.com/Nishith170217/Cornell-Movie-Dialog-Analysis-NLP-Course-Project-/blob/main/LICENSE) file.
 
 For a comprehensive understanding, please refer to the detailed project report and Jupyter notebooks provided in this repository.
+
+---
+
+## Repository Structure
+
+The project is organized as follows:
+
+```
+
+Cornell-Movie-Dialog-Analysis-NLP-Course-Project/
+│
+├── data/                  # Raw and processed dataset files
+├── notebooks/            # Jupyter notebooks for EDA and modeling
+├── models/               # Saved trained models (if applicable)
+├── src/                  # Source code for preprocessing and utilities
+├── results/             # Generated outputs, plots, and evaluation results
+├── requirements.txt     # Python dependencies
+└── README.md            # Project documentation
+
+````
+
+---
+
+## How to Run the Project
+
+Follow the steps below to set up and execute the project locally:
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Nishith170217/Cornell-Movie-Dialog-Analysis-NLP-Course-Project-.git
+cd Cornell-Movie-Dialog-Analysis-NLP-Course-Project-
+````
+
+### 2. Create Virtual Environment (Recommended)
+
+```bash
+python -m venv venv
+source venv/bin/activate   # On Mac/Linux
+venv\Scripts\activate      # On Windows
+```
+
+### 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+### 4. Dataset Setup
+
+The dataset is sourced from Hugging Face:
+[https://huggingface.co/datasets/cornell_movie_dialog](https://huggingface.co/datasets/cornell_movie_dialog)
+
+You can either:
+
+* Download manually, OR
+* Load using the `datasets` library in Python
+
+---
+
+### 5. Run Data Preprocessing
+
+```bash
+python src/preprocess.py
+```
+
+---
+
+### 6. Train the Model
+
+```bash
+python src/train.py
+```
+
+---
+
+### 7. Run Inference (Chatbot / Dialogue Generation)
+
+```bash
+python src/inference.py
+```
+
+This allows interactive testing of the trained dialogue model.
+
+---
+
+## Model Overview
+
+This project explores dialogue modeling using NLP techniques applied to movie conversations.
+
+### Pipeline:
+
+1. Data Cleaning & Preprocessing
+
+   * Removing noise, punctuation handling
+   * Tokenization and normalization
+
+2. Dataset Preparation
+
+   * Input-output sentence pairing
+   * Padding and vocabulary creation
+
+3. Model Training
+
+   * Sequence-to-Sequence (Seq2Seq) architecture
+   * Encoder–Decoder (LSTM/RNN-based)
+
+4. Response Generation
+
+   * Predicting conversational response given input text
+
+---
+
+## Future Improvements
+
+* Replace LSTM with Transformer-based architecture (GPT-style decoder)
+* Add attention mechanism for better context retention
+* Evaluate using BLEU / ROUGE metrics
+* Deploy chatbot using Flask or Streamlit
+* Add real-time interactive UI
+
+---
+
+## Acknowledgements
+
+* Cornell Movie Dialogs Corpus
+* Politecnico di Milano (Polimi) NLP Course
+* Hugging Face Datasets Library
+
